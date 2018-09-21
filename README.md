@@ -1,6 +1,6 @@
 # DSpider-jd
 It is distributed spider.It crawls product information in jingdong.
-Please open redis and update your ip address before you start
+Please start redis and update your ip address and port before you startup it.
 
 Enviroment:
 jdk 1.8
